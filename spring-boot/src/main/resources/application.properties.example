@@ -1,0 +1,3 @@
+spring.application.name=spring-boot
+spring.data.mongodb.database=Java-Spring-Medium
+spring.data.mongodb.uri=***should be added mongodb atlas link
